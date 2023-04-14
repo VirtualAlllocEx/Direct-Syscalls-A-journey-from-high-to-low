@@ -5,11 +5,12 @@ The technique of direct system calls is no longer a new attack technique for Red
 
 More details in my related blog post https://redops.at/en/blog/direct-syscalls-a-journey-from-high-to-low
 
-##**References** 
 
-https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
-https://www.ired.team/offensive-security/code-injection-process-injection/process-injection
-https://www.ired.team/offensive-security/code-injection-process-injection/loading-and-executing-shellcode-from-portable-executable-resources
-https://github.com/jthuraisamy/SysWhispers2
-https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/
-https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/
+# **References** 
+
+- https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
+- https://www.ired.team/offensive-security/code-injection-process-injection/process-injection
+- https://www.ired.team/offensive-security/code-injection-process-injection/loading-and-executing-shellcode-from-portable-executable-resources
+- https://github.com/jthuraisamy/SysWhispers2
+- https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/
+- https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/
