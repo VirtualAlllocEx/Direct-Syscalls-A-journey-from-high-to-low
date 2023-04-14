@@ -1,0 +1,8 @@
+﻿  Assembling syscallsstubs.std.x64.asm...
+  Create_Thread_Direct_Syscalls_Shellcode_Ressouce_BIN.cpp
+  syscalls.c
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Create_Thread_Direct_Syscalls_Shellcode_Ressouce_BIN.vcxproj -> C:\Users\user1\source\repos\Create_Thread_Direct_Syscalls_Shellcode_Ressouce_BIN\x64\Release\Create_Thread_Direct_Syscalls_Shellcode_Ressouce_BIN.exe
