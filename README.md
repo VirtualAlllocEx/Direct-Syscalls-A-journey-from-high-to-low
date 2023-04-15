@@ -1,5 +1,5 @@
 # Direct-Syscalls-A-journey-from-high-to-low
-The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used is not new and I make no claim to it. Most of the code comes, as so often, from the ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!
+The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used is not new and I make no claim to it. Most of the code comes, as so often, from the **ired.team**, **thank you @spotheplanet for your brilliant work and sharing it with us all!**
 
 Start with shellcode execution using Windows APIs (high level), move on to native APIs (medium level) and finally to direct syscalls (low level).
 
