@@ -7,6 +7,7 @@ More details in my related blog post https://redops.at/en/blog/direct-syscalls-a
 
 # **Disclaimer**
 The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used is not new and I make no claim to it. Most of the code comes, as so often, from the **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
+For the syscall POCs, **Syswhispers2** was used, also thanks to **@Jackson_T** for providing this very helpful code. 
 
 # **References** 
 
