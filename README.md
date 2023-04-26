@@ -6,11 +6,10 @@ The technique of direct system calls is no longer a new attack technique for Red
 More details in my related blog post https://redops.at/en/blog/direct-syscalls-a-journey-from-high-to-low
 
 # **Disclaimer**
-The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used is not new and I make no claim to it. Most of the code comes, as so often, from the **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
+The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used is not new and I make no claim to it. Most of the code comes, as so often, from **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
 For the syscall POCs, **Syswhispers2** was used, also thanks to **@Jackson_T** for providing this very helpful code. 
 
 # **References** 
-
 - https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
 - https://www.ired.team/offensive-security/code-injection-process-injection/process-injection
 - https://www.ired.team/offensive-security/code-injection-process-injection/loading-and-executing-shellcode-from-portable-executable-resources
